@@ -29,7 +29,7 @@ This project focuses on analyzing student churn for the Excelerate company by le
 ## 👥 Team Members
 - Abdullah Imran - Technical Guide (main)
 - Matthew Ojo
-- Krishin Tharani - Technical Guide
+- Krishin Tharani - Technical Guide (Team Lead)
 - Emani Likhita
 - Sangeeta Sahoo
 - John Syllah
