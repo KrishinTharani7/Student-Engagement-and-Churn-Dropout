@@ -8,7 +8,7 @@ This project focuses on analyzing student churn for the Excelerate company by le
 ## 🗂 Repository Structure
 ```plaintext
 ├── Week 1 - Data Cleaning and Validation
-│   ├── AI_internship_Week1.csv
+│   ├── Week1_Cleaned_and_validated_Data.csv
 │   ├── Week 1 Code.ipynb
 │   ├── Week 1 Report.pdf
 ├── Week 2 - Exploratory Data Analysis
